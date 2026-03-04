@@ -1,10 +1,10 @@
-# Existential Kernel
+# Existence Lang
 
 A composable ontology framework for AI agents and human systems.
 
-## What is an Existential Kernel?
+## What is an Existence Kernel?
 
-An existential kernel is a minimal set of universal terms that ground all context — from the broadest scope (Existence itself) to the narrowest (a single project). It bridges philosophy with systems thinking, giving AI agents and humans a shared vocabulary for scoping, context, and resolution.
+An existence kernel is a minimal set of universal terms that ground all context — from the broadest scope (Existence itself) to the narrowest (a single project). It bridges philosophy with systems thinking, giving AI agents and humans a shared vocabulary for scoping, context, and resolution.
 
 ## The 14-Term Kernel
 
@@ -39,10 +39,10 @@ Higher rings assume all lower rings. Each project can add **domain overlays** �
 
 | Repo | Description |
 |------|-------------|
-| [ontology](https://github.com/existential-kernel/ontology) | Reference existential ontology — 114 terms across 3 rings |
-| [exkernel](https://github.com/existential-kernel/exkernel) | CLI tool for ontology management, validation, and composable scoping |
-| [spec](https://github.com/existential-kernel/spec) | Node format specification and templates |
-| [.github](https://github.com/existential-kernel/.github) | Organization profile and meta |
+| [ontology](https://github.com/existence-lang/ontology) | Reference existential ontology — 114 terms across 3 rings |
+| [existence](https://github.com/existence-lang/existence) | CLI tool for ontology management, validation, and composable scoping |
+| [spec](https://github.com/existence-lang/spec) | Node format specification and templates |
+| [.github](https://github.com/existence-lang/.github) | Organization profile and meta |
 
 ## Composable Scoping
 
@@ -65,7 +65,7 @@ The kernel synthesizes four traditions:
 
 ## Contributing
 
-The existential kernel is a living system. Contributions welcome — whether refining definitions, adding nodes, or building domain overlays.
+The existence kernel is a living system. Contributions welcome — whether refining definitions, adding nodes, or building domain overlays.
 
 ## License
 
