@@ -27,19 +27,22 @@ An existential kernel is a minimal set of universal terms that ground all contex
 
 ## Architecture
 
-**Three layers of composable context:**
+**Three concentric rings — 114 terms total:**
 
-- **Layer 0: Kernel** — 14 universal terms, always loaded. The existential scope.
-- **Layer 1: Ontology** — Extended nodes defining each term across Ontology, Axiology, and Epistemology. Referenced on demand.
-- **Layer 2: Domain Overlays** — Each project adds domain-specific terms that extend the kernel. Scoped context.
+- **Ring 0: Kernel** — 14 universal terms, always loaded. The existential scope.
+- **Ring 1: Software** — 17 terms bridging the kernel to DDD and software domains.
+- **Ring 2: Extended** — 83 philosophical and cross-domain terms. Referenced on demand.
+
+Higher rings assume all lower rings. Each project can add **domain overlays** — project-specific terms that extend the kernel with scoped context.
 
 ## Projects
 
 | Repo | Description |
 |------|-------------|
-| [ontology](https://github.com/existential-kernel/ontology) | Reference existential ontology — the 14-term kernel + extended nodes |
+| [ontology](https://github.com/existential-kernel/ontology) | Reference existential ontology — 114 terms across 3 rings |
 | [exkernel](https://github.com/existential-kernel/exkernel) | CLI tool for ontology management, validation, and composable scoping |
 | [spec](https://github.com/existential-kernel/spec) | Node format specification and templates |
+| [.github](https://github.com/existential-kernel/.github) | Organization profile and meta |
 
 ## Composable Scoping
 
